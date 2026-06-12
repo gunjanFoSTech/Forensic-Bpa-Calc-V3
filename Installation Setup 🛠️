@@ -1,0 +1,3 @@
+You just need python3 , OpenCV and Numphy to run this
+Open terminal and install the liabraries or packages - pip install opencv-python numphy
+Once that finishes run the script- python3 bpa_v3.py
